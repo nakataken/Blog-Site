@@ -1,2 +1,1 @@
-# Cha-Raymundo
-Chauntal's Blog Site
+# Blog Site CRUD
